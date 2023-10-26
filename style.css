@@ -1,0 +1,49 @@
+*{
+    background-color: rgba(74, 146, 253, 0.932);
+    margin: 0%;
+    font-family: verdana;
+    background-color:azure;
+}
+
+.name{
+    color: darkgray;
+    text-align: center;
+    font-size: 4vh;
+    outline: none;
+    box-sizing: border-box;
+    margin-left: 35px;
+    padding: 20px;
+    width: 95%;
+}
+.one{
+    display: block;
+    margin: 10px;
+    
+}
+#fillup{
+    color: blueviolet;
+}
+#name1{
+    width: 95%;
+    height:22px ;
+}
+#em{
+    color: aqua;
+}
+#emaill{
+    width: 95%;
+    height: 22px;
+}
+#da{
+    color: olive;
+}
+#date{
+    width: 95%;
+    height:22px ;
+}
+#comment{
+    border: 2px solid gold;
+    border-radius: 2px 2px;
+    width: 95%;
+    height:22px ;
+}
